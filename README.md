@@ -12,4 +12,5 @@ In order to use the above code to create a bot from scratch, you will first need
 
 Name it whatever you like, and click create.
 
-https://imgur.com/a/8kK4ToT
+[![Create](https://www.linkpicture.com/view.php?img=LPic61de712c82c681583115391?raw=true)](https://www.linkpicture.com/view.php?img=LPic61de712c82c681583115391)
+
