@@ -10,7 +10,11 @@ Discord.js is a Node.js module that allows for easy interaction with the officia
 
 In order to use the above code to create a bot from scratch, you will need to be running Windows 10, and will first need to go to https://discord.com/developers/applications and create a new application.
 
-Turn the application into a bot using the bot tab on the left, and copy the token.
+Turn the application into a bot using the bot tab on the left, go back into the general information tab, and copy the client ID.
+
+Go to https://discordapi.com/permissions.html, make sure you choose administrator permissions, paste your client ID in, and click the link at the bottom to invite the bot to your server.
+
+Go back to https://discord.com/developers/applications go to the bot tab, and copy the token.
 
 Then download this repository, and save it in a folder somewhere on your computer.
 
