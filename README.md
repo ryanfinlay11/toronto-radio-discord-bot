@@ -18,7 +18,7 @@ Go back to https://discord.com/developers/applications go to the bot tab, and co
 
 Then download this repository, and save it in a folder somewhere on your computer.
 
-Open up token.txt, and paste your token you copied.
+Open up token.txt, and replace the text with the token you copied.
 
 Open up command prompt and make sure you have Node.js v16.13.0 or higher installed, by typing "node -v".
 
