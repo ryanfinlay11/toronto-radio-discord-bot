@@ -1,11 +1,10 @@
 const Discord = require('discord.js');
+const fs = require('fs');
 
 const { Client, Intents } = require('discord.js');
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.GUILD_VOICE_STATES, Intents.FLAGS.GUILD_MESSAGE_REACTIONS], 
                             partials: ['MESSAGE', 'CHANNEL', 'REACTION', 'GUILD_MEMBER'],});
-
-const fs = require('fs');
 
 client.commands = new Discord.Collection();
 client.events = new Discord.Collection();
