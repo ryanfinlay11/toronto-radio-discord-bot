@@ -31,4 +31,4 @@ The bot should now be online in your server
 
 Type -help in your server for a list of commands.
 
-I hope you enjoy! If you need any assistance, message me on discord ryan11#3306
+I hope you enjoy!
